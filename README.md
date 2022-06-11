@@ -1,7 +1,7 @@
-# feature-flags-angular
+# ConfigCat Feature Flags with Angular
 
-## Setting up
+## Setup and Run
 
-npm install -g @angular/cli
-npm i configcat-js
+npm install
+ng serve --open
 
